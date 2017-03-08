@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><diagram program="umlet" version="13.3">
+  <zoom_level>12</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>492</x>
+      <y>252</y>
+      <w>420</w>
+      <h>420</h>
+    </coordinates>
+    <panel_attributes>Gestion de MaisIT
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>228</x>
+      <y>348</y>
+      <w>216</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Syndic de copropriété</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>552</x>
+      <y>552</y>
+      <w>312</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Ajouter un copropriétaire 
+à une copropriété</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>552</x>
+      <y>432</y>
+      <w>312</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Ajouter un Assemblée 
+générale(AG)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>372</x>
+      <y>384</y>
+      <w>204</w>
+      <h>228</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;170.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>372</x>
+      <y>384</y>
+      <w>204</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>552</x>
+      <y>312</y>
+      <w>312</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>Ajouter un copropriété</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>372</x>
+      <y>348</y>
+      <w>204</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;40.0;150.0;10.0</additional_attributes>
+  </element>
+</diagram>

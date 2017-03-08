@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>160</x>
+      <y>210</y>
+      <w>180</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>Syndic de copropriété</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>230</y>
+      <w>170</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>230</y>
+      <w>170</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>230</y>
+      <w>170</w>
+      <h>280</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;150.0;260.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>410</x>
+      <y>190</y>
+      <w>350</w>
+      <h>370</h>
+    </coordinates>
+    <panel_attributes>Gestion de présence
+halign=center</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>450</x>
+      <y>240</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Ajouter un copropriétaire
+présent</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>450</x>
+      <y>350</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Ajouter un copropriétaire 
+représenté</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>450</x>
+      <y>460</y>
+      <w>260</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>Ajouter l'heure d'arriver
+et départ</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
